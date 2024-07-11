@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #96CDFF;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-item{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+}
+.nav{
+    display: flex;
+}
+.nav-item:hover{
+    filter: drop-shadow(10px 10px 5px skyblue);
+    color: white;
+}

@@ -1,0 +1,14 @@
+.bookpg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bbtn{
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(79, 186, 117);
+    border: none;
+    border-radius: 5px;
+}
